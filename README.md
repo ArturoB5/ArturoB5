@@ -1,7 +1,7 @@
-<p align="center">
+<!--  <p align="center">
   <img src="./assets/BannerAL.png" alt="Banner de Arturo Badillo" />
 </p>
-
+-->
 <h1 align="center">Arturo David Badillo Arrieta</h1>
 
 <p align="center">
