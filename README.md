@@ -147,24 +147,10 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 
 ### Actualmente estoy fortaleciendo
 
-- Arquitectura backend con Java y Spring Boot.
+- Arquitectura backend.
 - Desarrollo Full Stack con Next.js, React, Supabase, entre otros.
 - Seguridad web, análisis de vulnerabilidades y buenas prácticas defensivas.
-- Diseño de productos digitales bajo la marca Abalon Labs.
 - Despliegue, mantenimiento y mejora continua de aplicaciones web.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
-</p>
-
-### Roadmap actual
-
-- [x] Portafolio profesional interactivo
-- [x] Proyectos web personales y freelance
-- [x] Construcción de identidad tecnológica con Abalon Labs
-- [X] Profundizar en seguridad ofensiva y defensiva
-- [X] Publicar más proyectos open source
-- [X] Consolidar productos digitales propios
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
@@ -257,16 +243,6 @@ Seguridad, despliegue y mejora continua
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
 </p>
 
-### Abalon Labs
-
-Estoy construyendo **Abalon Labs** como una marca personal enfocada en desarrollo de software, soluciones digitales, automatización y proyectos tecnológicos con identidad propia.
-
-Mi objetivo es convertir ideas en productos funcionales, visualmente cuidados y técnicamente sólidos.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
-</p>
-
 ### Conecta conmigo
 
 <p align="center">
@@ -280,18 +256,6 @@ Mi objetivo es convertir ideas en productos funcionales, visualmente cuidados y 
     <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
-</p>
-
-## Invítame un café
-
-Si quieres apoyarme creando nuevos proyectos:
-
-<a href="https://www.paypal.com/paypalme/arararcadabra?locale.x=es_XC&country.x=EC" target="_blank">
-  <img src="https://img.shields.io/badge/Invitame%20un%20cafe-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Invitame un cafe">
-</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
