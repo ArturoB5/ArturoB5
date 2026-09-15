@@ -23,7 +23,6 @@
   <a href="https://portafolio-arturobadillo.vercel.app/">Portafolio</a> ·
   <a href="https://ec.linkedin.com/in/arturo-b-146815130">LinkedIn</a> ·
   <a href="mailto:arturobadillo18@gmail.com">Email</a> ·
-  <a href="https://www.paypal.com/paypalme/arararcadabra">Apoyar proyectos</a>
 </p>
 
 <p align="center">
