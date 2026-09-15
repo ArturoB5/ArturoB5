@@ -137,7 +137,7 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 ### En qué estoy trabajando
 
 - Desarrollo de aplicaciones web Full Stack.
-- Proyectos personales y freelance.
+- Desarrollo de módulos para distintos sistemas.
 - Integración con servicios en la nube, autenticación y almacenamiento.
 - Mejora continua en backend, seguridad y arquitectura.
 
