@@ -16,10 +16,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArturoB5&label=Visitas%20al%20perfil&color=0f766e&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
   <a href="https://portafolio-arturobadillo.vercel.app/">Portafolio</a> ·
   <a href="https://ec.linkedin.com/in/arturo-b-146815130">LinkedIn</a> ·
   <a href="mailto:arturobadillo18@gmail.com">Email</a> ·
