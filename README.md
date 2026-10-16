@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://portafolio-arturobadillo.vercel.app/">Portafolio</a> ·
   <a href="https://ec.linkedin.com/in/arturo-b-146815130">LinkedIn</a> ·
-  <a href="mailto:arturobadillo18@gmail.com">Email</a> ·
+  <a href="mailto:arturobadillo18@gmail.com">Email</a> 
 </p>
 
 <p align="center">
