@@ -33,9 +33,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
 </p>
 
-Hola mundo soy ingeniero de software y desarrollador Full Stack con enfoque en crear soluciones digitales completas: interfaces claras, backend sólido, bases de datos bien estructuradas y experiencias que generen valor real.
+Hola mundo soy Arturo, desarrollador Full Stack y mi enfoque es crear soluciones digitales completas: interfaces claras, backend sólido, bases de datos bien estructuradas y experiencias que generen valor real.
 
-Actualmente fortalezco mi perfil académico cursando una maestría en Ciberseguridad. Me gusta construir aplicaciones web modernas, resolver problemas técnicos y convertir ideas en productos funcionales.
+Actualmente fortalezco mi perfil profesional cursando una master en Ciberseguridad. Me gusta construir aplicaciones web y móviles modernas, resolver problemas técnicos y convertir ideas en productos funcionales.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
@@ -44,7 +44,7 @@ Actualmente fortalezco mi perfil académico cursando una maestría en Cibersegur
 ### Perfil técnico en una línea
 
 ```text
-Full Stack Developer · Software Engineering · Cybersecurity · Cloud Services · Product Thinking
+Full Stack Developer · Software Engineering · Cybersecurity · UX/UI · Product Thinking
 ```
 
 <p align="center">
